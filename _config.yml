@@ -17,4 +17,4 @@ kramdown:
   syntax_highlighter: rouge
 
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal

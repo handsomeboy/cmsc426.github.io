@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /optimization-1/
+permalink: /panorama-stitch/
 ---
 
 Table of Contents:
@@ -20,6 +20,13 @@ Table of Contents:
 <a name='intro'></a>
 
 ### Introduction
+
+
+{Features in an image}
+What are <i>features</i> for Machine vision? <i> Is it similar as Human visual perception? This question can have different answers but one thing is certain that feature detection is an imperative building block for a variety of computer vision applications. We all have seen <i> Panorama Stitching </i> in our smartphones or other softwares like Adobe Photoshop or AutoPano Pro. All they require is multiple image of the same scene 
+
+
+
 
 In the previous section we introduced two key components in context of the image classification task:
 

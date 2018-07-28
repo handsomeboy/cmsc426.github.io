@@ -5,18 +5,6 @@ permalink: /pano/
 
 Table of Contents:
 
-- [Quick intro without brain analogies](#quick)
-- [Modeling one neuron](#intro)
-  - [Biological motivation and connections](#bio)
-  - [Single neuron as a linear classifier](#classifier)
-  - [Commonly used activation functions](#actfun)
-- [Neural Network architectures](#nn)
-  - [Layer-wise organization](#layers)
-  - [Example feed-forward computation](#feedforward)
-  - [Representational power](#power)
-  - [Setting number of layers and their sizes](#arch)
-- [Summary](#summary)
-- [Additional references](#add)
 
 <a name='quick'></a>
 # Introduction:
@@ -25,6 +13,7 @@ Table of Contents:
 
 
 ## Convolution:
+- Ever heard of Convolutional Neural Networks?
 - 1D Conv
 - 2D and 3D Conv
 - Conv in images
